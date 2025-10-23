@@ -38,7 +38,7 @@ def fun(n,x):
 - Processor used, etc.....
 
 ### Input Size
-- We can consdier the input size, but there would be follwoing issuers
+- We can consdier the input size, but there would be follwoing issues
     - Some inputs will be better suited to one and not the other
 - Consdier the follwing example for insertion sort
     - Best Case = Already sorted array in ascending order
